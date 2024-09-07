@@ -62,7 +62,7 @@ This repository contains a powerful and flexible Telegram scraper designed to co
 Execute the following command to authenticate your Telegram session:
 
 ```sh
-python 01-Telegram Session Creater.py
+python 01-Telegram Session Generator.py
 ```
 
 Follow the on-screen instructions to complete authentication and retrieve your session string.
@@ -90,6 +90,7 @@ python 03-merge_output_files.py
 Before running the scraper, customize the following settings in `main_scraper.py`:
 
 - **`api_id`** and **`api_hash`**: Your Telegram API credentials.
+- **`Session`**: The Telegram session that we got from "01-Telegram Session Generator.py"
 - **`group_title`**: The Telegram group or channel from which to scrape data.
 - **`limit_msg`**: Maximum number of messages to fetch per request.
 - **`Repeat_number`**: Number of iterations for repeated scraping.
