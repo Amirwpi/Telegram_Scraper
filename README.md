@@ -62,7 +62,7 @@ This repository contains a powerful and flexible Telegram scraper designed to co
 Execute the following command to authenticate your Telegram session:
 
 ```sh
-python session_management.py
+python 01-Telegram Session Creater.py
 ```
 
 Follow the on-screen instructions to complete authentication and retrieve your session string.
@@ -72,7 +72,7 @@ Follow the on-screen instructions to complete authentication and retrieve your s
 After obtaining the session string, run the main scraper to start collecting data:
 
 ```sh
-python main_scraper.py
+python 02-Telegram Scraper.py
 ```
 
 ### 4. Merge the Data
@@ -80,8 +80,10 @@ python main_scraper.py
 Once the scraping is complete, use the merging script to consolidate all CSV files into a single file:
 
 ```sh
-python merge_data.py
+python 03-merge_output_files.py
 ```
+##Hasn't uploaded but I will add this part as well
+
 
 ## Configuration
 
