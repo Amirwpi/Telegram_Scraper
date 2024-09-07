@@ -96,6 +96,8 @@ Before running the scraper, customize the following settings in `main_scraper.py
 - **`limit_msg`**: Maximum number of messages to fetch per request.
 - **`Repeat_number`**: Number of iterations for repeated scraping.
 - **`datetime_before`**: The initial timestamp to begin scraping messages from.
+- 
+Important Note: Adjust the Repeat_number, datetime_before, and other parameters based on your specific data and channel requirements. It's essential to monitor the scraping process to ensure that it is functioning correctly. If an error occurs, use the last file's timestamp to continue scraping from where it stopped.
 
 ## How It Works
 
