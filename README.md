@@ -57,7 +57,7 @@ This repository contains a powerful and flexible Telegram scraper designed to co
 - Obtain your API ID and hash from the [Telegram API](https://my.telegram.org/auth).
 - Update the placeholders in the script (`api_id`, `api_hash`, and `phone_number`) with your actual credentials.
 
-### 2. Run the Session Management Script
+### 2. Run "Telegram Session Creater.py"
 
 Execute the following command to authenticate your Telegram session:
 
@@ -67,7 +67,7 @@ python session_management.py
 
 Follow the on-screen instructions to complete authentication and retrieve your session string.
 
-### 3. Run the Main Scraper
+### 3. Run the Main Scraper "Telegram Scraper.py"
 
 After obtaining the session string, run the main scraper to start collecting data:
 
