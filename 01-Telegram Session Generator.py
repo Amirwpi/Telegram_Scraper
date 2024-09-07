@@ -1,3 +1,7 @@
+
+#*This code and documentation were written by [Amir Jamali](https://github.com/Amirwpi).*
+
+
 import nest_asyncio
 nest_asyncio.apply()
 
