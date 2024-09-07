@@ -1,3 +1,4 @@
+#*This code and documentation were written by [Amir Jamali](https://github.com/Amirwpi).*
 #Main Scrapper
 
 import asyncio
