@@ -36,7 +36,7 @@ This repository contains a powerful and flexible Telegram scraper designed to co
 1. **Clone the Repository**
 
     ```sh
-    git clone https://github.com/yourusername/telegram-scraper.git
+    git clone https://github.com/Amirwpi/Telegram_Scraper.git
     cd telegram-scraper
     ```
 
