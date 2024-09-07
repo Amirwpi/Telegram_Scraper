@@ -124,12 +124,10 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
 3. Commit your changes (`git commit -am 'Add your feature'`).
-
-
-*This code and documentation were written by [Amir Jamali](https://github.com/Amirwpi).*
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+*This code and documentation were written by [Amir Jamali](https://github.com/Amirwpi).*
