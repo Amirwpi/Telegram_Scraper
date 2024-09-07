@@ -2,6 +2,7 @@
 
 This repository contains a powerful and flexible Telegram scraper designed to collect message data and media files from Telegram channels or groups. Built with Python and the Telethon library, this scraper is ideal for data analysts, researchers, and developers looking to gather and analyze data from Telegram for various purposes, such as social network analysis, market research, or content monitoring.
 
+
 ## Table of Contents
 
 - [Features](#features)
@@ -123,6 +124,9 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature-name`).
 3. Commit your changes (`git commit -am 'Add your feature'`).
+
+
+*This code and documentation were written by [Amir Jamali](https://github.com/Amirwpi).*
 4. Push to the branch (`git push origin feature/your-feature-name`).
 5. Open a pull request.
 
